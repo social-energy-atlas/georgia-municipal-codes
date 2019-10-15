@@ -1,7 +1,4 @@
-# georgia-municipal-codes
-
-
-# Georgia Municipal Code Dataset
+# Georgia Municipal Code of Ordinance Dataset
 ## Social Responsibility CODEC Lab (formerly the Social Energy Atlas) - University of Georgia
 
 ## Overview
